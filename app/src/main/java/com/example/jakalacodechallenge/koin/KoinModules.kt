@@ -6,10 +6,8 @@ import com.example.jakalacodechallenge.network.ApiService
 import com.example.jakalacodechallenge.ui.PersonViewModel
 import io.ktor.client.HttpClient
 import io.ktor.client.engine.android.Android
-import io.ktor.client.engine.okhttp.OkHttp
 import io.ktor.client.plugins.DefaultRequest
 import io.ktor.client.plugins.contentnegotiation.ContentNegotiation
-import io.ktor.client.plugins.kotlinx.serializer.KotlinxSerializer
 import io.ktor.client.plugins.logging.DEFAULT
 import io.ktor.client.plugins.logging.LogLevel
 import io.ktor.client.plugins.logging.Logger

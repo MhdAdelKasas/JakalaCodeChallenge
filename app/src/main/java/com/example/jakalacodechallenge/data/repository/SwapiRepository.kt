@@ -1,7 +1,6 @@
 package com.example.jakalacodechallenge.data.repository
 
 import com.example.jakalacodechallenge.data.domain.PeopleResponse
-import com.example.jakalacodechallenge.data.domain.Person
 import com.example.jakalacodechallenge.network.ApiService
 import kotlinx.coroutines.delay
 
